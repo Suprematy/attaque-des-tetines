@@ -47,7 +47,7 @@ Mode RPG, mode classique, The Rumbling, vague de boss, assaut final, PvP contre 
 - Textures de la ville : [Poly Haven](https://polyhaven.com/) (CC0).
 - Modèle de chèvre : « goat simulator - goat » par [eduardosouzabarbosadasilva](https://sketchfab.com/eduardosouzabarbosadasilva), [Sketchfab](https://sketchfab.com/3d-models/goat-simulator-goat-73a159c2eb0345dc8ef29aced453d360), licence [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
 - Musiques de la petite maison : thème principal de *Goat Simulator* et *Portal Radio Tune*, propriété de leurs ayants droit respectifs.
-- Effets sonores : portal gun de *Portal 2* (Valve) et équipement tridimensionnel d'après le montage sonore de *L'Attaque des Titans* (saison 1), extraits et nettoyés pour le jeu ; bruits de titans (pas, course, cris) de *L'Attaque des Titans*, coupes de sabre tirées d'une compilation d'effets d'anime, bêlements de *Goat Simulator (bêlements)* ; propriété de leurs ayants droit respectifs.
+- Effets sonores : portal gun de *Portal 2* (Valve) et équipement tridimensionnel d'après deux montages sonores de *L'Attaque des Titans* (scène de la ville, saison 1 ; entraînement en forêt) et une courte animation de fans, extraits et nettoyés pour le jeu ; bruits de titans (pas, course, cris) de *L'Attaque des Titans*, coupes de sabre tirées d'une compilation d'effets d'anime, bêlements de *Goat Simulator (bêlements)* ; propriété de leurs ayants droit respectifs.
 
 ## Avertissement
 
